@@ -3,3 +3,4 @@ mangue
 framboise
 abricot
 cerise
+fraise
